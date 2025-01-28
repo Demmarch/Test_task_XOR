@@ -1,0 +1,9 @@
+C:/Users/auser/Documents/test_task_XOR/build/5_15_16_mingw64_static-Debug/CMakeFiles/test_task_XOR.dir
+C:/Users/auser/Documents/test_task_XOR/build/5_15_16_mingw64_static-Debug/CMakeFiles/edit_cache.dir
+C:/Users/auser/Documents/test_task_XOR/build/5_15_16_mingw64_static-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/auser/Documents/test_task_XOR/build/5_15_16_mingw64_static-Debug/CMakeFiles/list_install_components.dir
+C:/Users/auser/Documents/test_task_XOR/build/5_15_16_mingw64_static-Debug/CMakeFiles/install.dir
+C:/Users/auser/Documents/test_task_XOR/build/5_15_16_mingw64_static-Debug/CMakeFiles/install/local.dir
+C:/Users/auser/Documents/test_task_XOR/build/5_15_16_mingw64_static-Debug/CMakeFiles/install/strip.dir
+C:/Users/auser/Documents/test_task_XOR/build/5_15_16_mingw64_static-Debug/CMakeFiles/test_task_XOR_autogen_timestamp_deps.dir
+C:/Users/auser/Documents/test_task_XOR/build/5_15_16_mingw64_static-Debug/CMakeFiles/test_task_XOR_autogen.dir
