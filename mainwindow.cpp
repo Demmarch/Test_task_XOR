@@ -10,10 +10,11 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
     , timer(new QTimer(this)) {
     ui->setupUi(this);
-    ui->lineEditXorValue->setValidator(new QRegExpValidator(QRegExp("^[0-9A-Fa-f]{1,16}$"), this));
+    ui->lineEditXorValue->setValidator(new QRegularExpressionValidator(QRegularExpression("^[0-9A-Fa-f]{1,16}$"), this));
+
 
     connect(ui->buttonStart, &QPushButton::clicked, this, &MainWindow::onStart);
-    connect(ui->pushbuttonStop, &QPushButton::clicked, this, &MainWindow::onStop);
+    connect(ui->buttonStop, &QPushButton::clicked, this, &MainWindow::onStop);
     connect(timer, &QTimer::timeout, this, &MainWindow::processFiles);
 }
 

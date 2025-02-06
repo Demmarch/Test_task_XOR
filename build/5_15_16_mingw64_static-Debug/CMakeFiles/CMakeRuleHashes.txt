@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-ed1e9a4b922a836fec8f840ff6f4fe5a CMakeFiles/test_task_XOR_autogen
-e6435e8197448daeb75087d771727e30 test_task_XOR_autogen/timestamp

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bc9e96bf6bd1d902e55b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test_task_XOR",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_task_XOR::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_task_XOR-Debug-b72a791a648158d5f131.json",
+					"name" : "test_task_XOR",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_task_XOR_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_task_XOR_autogen-Debug-3d862cca9d0c42e5c9c6.json",
+					"name" : "test_task_XOR_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_task_XOR_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_task_XOR_autogen_timestamp_deps-Debug-ee1bd1ba9133c492e86b.json",
+					"name" : "test_task_XOR_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/auser/Documents/test_task_XOR/build/Qt_5_15_16_static-Debug",
+		"source" : "C:/Users/auser/Documents/test_task_XOR"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
